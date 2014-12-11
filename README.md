@@ -1,6 +1,6 @@
 # Lista de padrões de projeto:
 
-+ [ ] **Template Method**
++ [x] **Template Method**
 + [ ] **Strategy**
 + [ ] **Observer**
 + [ ] **Composite**
